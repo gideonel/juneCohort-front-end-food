@@ -19,7 +19,7 @@ h3 {
     font-size: 30px;
 }
 
-.section-title {
+section .section-title {
     font-size: 30px;
 }
 
@@ -75,12 +75,12 @@ dd {
 }
 
 ol li:nth-child(3n) {
-    background-color: #e0e0e0;
+    background-color: #e02323;
     padding-block: 15px;
 }
 
 ul li:nth-child(2n) {
-    background-color: #e0e0e0;
+    background-color: #d3e90a;
     padding-block: 15px;
 }
 
@@ -89,7 +89,7 @@ ul li:nth-child(2n) {
     width: 400px;
 }
 
-.food-item  img[src^="https"] {
+.img-url {
     border-radius: 0  50px 0 50px;
     width: 400px;
 }
